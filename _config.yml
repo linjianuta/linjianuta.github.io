@@ -10,7 +10,7 @@ title: MIZAR
 email: 198844727@qq.com
 description: The One Who Loves Alcor
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://alcor80.me" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: linjianuta
 github_username:  linjianuta
 paginate: 5
