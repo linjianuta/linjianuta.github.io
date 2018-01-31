@@ -4,6 +4,7 @@ title : About
 permalink: /about/
 ---
 
-<h2>Gravity</h2>
-<p>请不要打扰</p>
+<h2>Alcor80</h2>
+<p>是星星的名字，个人博客
+寻求自我</p>
 
